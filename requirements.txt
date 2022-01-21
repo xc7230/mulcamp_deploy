@@ -13,7 +13,7 @@ django-crispy-forms==1.8.1
 django-heroku==0.3.1
 gunicorn==20.0.4
 idna==2.8
-ipython==7.9.0
+ipython==7.16.3
 ipython-genutils==0.2.0
 jedi==0.15.1
 oauthlib==3.1.0
